@@ -1,0 +1,10 @@
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\bin\Debug\netcoreapp2.1\EjemploArrays.deps.json
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\bin\Debug\netcoreapp2.1\EjemploArrays.runtimeconfig.json
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\bin\Debug\netcoreapp2.1\EjemploArrays.runtimeconfig.dev.json
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\bin\Debug\netcoreapp2.1\EjemploArrays.dll
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\bin\Debug\netcoreapp2.1\EjemploArrays.pdb
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\obj\Debug\netcoreapp2.1\EjemploArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\obj\Debug\netcoreapp2.1\EjemploArrays.AssemblyInfoInputs.cache
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\obj\Debug\netcoreapp2.1\EjemploArrays.AssemblyInfo.cs
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\obj\Debug\netcoreapp2.1\EjemploArrays.dll
+C:\Users\Sistemas15\Desktop\a\UsoArrays\EjemploArrays\obj\Debug\netcoreapp2.1\EjemploArrays.pdb

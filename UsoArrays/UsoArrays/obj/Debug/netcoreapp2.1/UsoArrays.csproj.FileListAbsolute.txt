@@ -1,0 +1,4 @@
+C:\Users\Sistemas15\Desktop\a\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.csprojAssemblyReference.cache
+C:\Users\Sistemas15\Desktop\a\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas15\Desktop\a\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.AssemblyInfoInputs.cache
+C:\Users\Sistemas15\Desktop\a\UsoArrays\UsoArrays\obj\Debug\netcoreapp2.1\UsoArrays.AssemblyInfo.cs
