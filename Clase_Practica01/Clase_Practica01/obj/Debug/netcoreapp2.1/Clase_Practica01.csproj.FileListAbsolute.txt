@@ -1,0 +1,11 @@
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\bin\Debug\netcoreapp2.1\Clase_Practica01.deps.json
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\bin\Debug\netcoreapp2.1\Clase_Practica01.runtimeconfig.json
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\bin\Debug\netcoreapp2.1\Clase_Practica01.runtimeconfig.dev.json
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\bin\Debug\netcoreapp2.1\Clase_Practica01.dll
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\bin\Debug\netcoreapp2.1\Clase_Practica01.pdb
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\obj\Debug\netcoreapp2.1\Clase_Practica01.csprojAssemblyReference.cache
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\obj\Debug\netcoreapp2.1\Clase_Practica01.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\obj\Debug\netcoreapp2.1\Clase_Practica01.AssemblyInfoInputs.cache
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\obj\Debug\netcoreapp2.1\Clase_Practica01.AssemblyInfo.cs
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\obj\Debug\netcoreapp2.1\Clase_Practica01.dll
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Clase_Practica01\obj\Debug\netcoreapp2.1\Clase_Practica01.pdb

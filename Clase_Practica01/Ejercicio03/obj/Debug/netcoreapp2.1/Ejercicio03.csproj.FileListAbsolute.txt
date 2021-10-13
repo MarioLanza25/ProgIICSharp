@@ -1,0 +1,11 @@
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\bin\Debug\netcoreapp2.1\Ejercicio03.deps.json
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\bin\Debug\netcoreapp2.1\Ejercicio03.runtimeconfig.json
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\bin\Debug\netcoreapp2.1\Ejercicio03.runtimeconfig.dev.json
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\bin\Debug\netcoreapp2.1\Ejercicio03.dll
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\bin\Debug\netcoreapp2.1\Ejercicio03.pdb
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\obj\Debug\netcoreapp2.1\Ejercicio03.csprojAssemblyReference.cache
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\obj\Debug\netcoreapp2.1\Ejercicio03.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\obj\Debug\netcoreapp2.1\Ejercicio03.AssemblyInfoInputs.cache
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\obj\Debug\netcoreapp2.1\Ejercicio03.AssemblyInfo.cs
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\obj\Debug\netcoreapp2.1\Ejercicio03.dll
+C:\Users\Sistemas15\Desktop\p\Clase_Practica01\Ejercicio03\obj\Debug\netcoreapp2.1\Ejercicio03.pdb
