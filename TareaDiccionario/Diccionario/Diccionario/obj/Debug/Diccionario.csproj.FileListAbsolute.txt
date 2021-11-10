@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\cPract\Diccionario\Diccionario\Diccionario\bin\Debug\Diccionario.exe.config
+C:\Users\Dell\Desktop\cPract\Diccionario\Diccionario\Diccionario\bin\Debug\Diccionario.exe
+C:\Users\Dell\Desktop\cPract\Diccionario\Diccionario\Diccionario\bin\Debug\Diccionario.pdb
+C:\Users\Dell\Desktop\cPract\Diccionario\Diccionario\Diccionario\obj\Debug\Diccionario.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\cPract\Diccionario\Diccionario\Diccionario\obj\Debug\Diccionario.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\cPract\Diccionario\Diccionario\Diccionario\obj\Debug\Diccionario.exe
+C:\Users\Dell\Desktop\cPract\Diccionario\Diccionario\Diccionario\obj\Debug\Diccionario.pdb
