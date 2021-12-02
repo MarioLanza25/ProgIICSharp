@@ -1,0 +1,16 @@
+﻿<Window x:Class="Dialogos.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dialogos"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnSaveDialog" Content="Save dialog" HorizontalAlignment="Left" Margin="150,86,0,0" VerticalAlignment="Top" Width="118" Height="22" Click="btnSaveDialog_Click"/>
+        <Button x:Name="btnColorDialog" Content="Color dialog" HorizontalAlignment="Left" Margin="324,86,0,0" VerticalAlignment="Top" Width="134" Click="btnColorDialog_Click"/>
+        <Button x:Name="btnFontDialog" Content="Font dialog" HorizontalAlignment="Left" Margin="518,86,0,0" VerticalAlignment="Top" Width="126" Click="btnFontDialog_Click"/>
+        <TextBox x:Name="txtInfo" HorizontalAlignment="Left" Height="187" Margin="150,152,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="494"/>
+
+    </Grid>
+</Window>

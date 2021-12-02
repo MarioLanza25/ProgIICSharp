@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\bin\Debug\Dialogos.exe.config
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\bin\Debug\Dialogos.exe
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\bin\Debug\Dialogos.pdb
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\Dialogos.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\Dialogos_MarkupCompile.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\Dialogos_MarkupCompile.lref
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\Dialogos.g.resources
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\Dialogos.Properties.Resources.resources
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\Dialogos.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\Dialogos.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\Dialogos.exe
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\Dialogos\obj\Debug\Dialogos.pdb

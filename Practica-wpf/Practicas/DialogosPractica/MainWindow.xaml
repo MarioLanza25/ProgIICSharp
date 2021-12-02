@@ -1,0 +1,16 @@
+﻿<Window x:Class="DialogosPractica.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DialogosPractica"
+        mc:Ignorable="d"
+        Title="Ventana Main" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnSaveDialog" Content="Save file dialog" HorizontalAlignment="Left" Margin="179,96,0,0" VerticalAlignment="Top" Width="103"Click="btnSaveDialog_Click"/>
+        <Button Content="Color dialog" HorizontalAlignment="Left" Margin="346,96,0,0" VerticalAlignment="Top" Width="106" Click/>
+        <Button Content="Font dialog" HorizontalAlignment="Left" Margin="511,96,0,0" VerticalAlignment="Top" Width="100"/>
+        <TextBox HorizontalAlignment="Left" Height="185" Margin="163,168,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="487"/>
+
+    </Grid>
+</Window>
