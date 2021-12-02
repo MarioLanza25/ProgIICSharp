@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\TreeView.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\TreeView_MarkupCompile.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\bin\Debug\TreeView.exe.config
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\bin\Debug\TreeView.exe
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\bin\Debug\TreeView.pdb
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\TreeView_MarkupCompile.lref
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\TreeView.g.resources
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\TreeView.Properties.Resources.resources
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\TreeView.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\TreeView.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\TreeView.exe
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\TreeView\obj\Debug\TreeView.pdb

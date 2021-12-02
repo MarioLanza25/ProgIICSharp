@@ -1,0 +1,34 @@
+﻿<Window x:Class="TreeView.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TreeView"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="290" Width="200">
+    <StackPanel>
+        <Button x:Name="btnSeleccionar" Content="Seleccionar" Click="btnSeleccionar_Click" Margin="20,0"/>
+        <TreeView x:Name="tvProducto">
+            <TreeViewItem Header="Tienda" IsExpanded="true">
+                <TreeViewItem Header="Oferta especial" IsExpanded="True">
+                    <TreeViewItem Header="Frutas" IsExpanded="true">
+                        <TreeViewItem Header="Pera"/>
+                        <TreeViewItem Header="Manzana"/>
+                        <TreeViewItem Header="Kiwi"/>
+                    </TreeViewItem>
+                    <TreeViewItem Header="Medicinas" IsExpanded="True">
+                        <TreeViewItem Header="Aspirina"/>
+                        <TreeViewItem Header="Antibiotico"/>
+                        <TreeViewItem Header="Anti alergico"/>
+                    </TreeViewItem>
+                    <TreeViewItem Header="Bebidas" IsExpanded="False">
+                        <TreeViewItem Header="Agua natural"/>
+                        <TreeViewItem Header="Coca cola 250 mls"/>
+                        <TreeViewItem Header="Jugo de limon"/>
+                        <TreeViewItem Header="Cacao eskimo 200 mls"/>
+                    </TreeViewItem>
+                </TreeViewItem>
+            </TreeViewItem>
+        </TreeView>
+    </StackPanel>
+</Window>

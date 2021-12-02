@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\bin\Debug\ListBox.exe.config
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\bin\Debug\ListBox.exe
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\bin\Debug\ListBox.pdb
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\ListBox.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\ListBox_MarkupCompile.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\ListBox_MarkupCompile.lref
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\ListBox.g.resources
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\ListBox.exe
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\ListBox\obj\Debug\ListBox.pdb
