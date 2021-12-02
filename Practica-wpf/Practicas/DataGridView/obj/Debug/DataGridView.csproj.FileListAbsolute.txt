@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\bin\Debug\DataGridView.exe.config
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\bin\Debug\DataGridView.exe
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\bin\Debug\DataGridView.pdb
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\App.g.cs
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\DataGridView_MarkupCompile.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\DataGridView_MarkupCompile.lref
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\MainWindow.baml
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\DataGridView.g.resources
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\DataGridView.Properties.Resources.resources
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\DataGridView.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\DataGridView.exe
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\DataGridView.pdb
+C:\Users\Dell\Desktop\Practica-wpf\DialogosPractica\DataGridView\obj\Debug\DataGridView.csprojAssemblyReference.cache
